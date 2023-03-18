@@ -1,0 +1,3 @@
+# rust book
+
+learning rust :)
